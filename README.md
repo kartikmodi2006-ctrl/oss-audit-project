@@ -118,15 +118,15 @@ This project has been fully tested and executed in a Linux environment using **W
 ## 📸 Output
 
 Screenshots of all script executions are included in the project report.
-![alt text](image.png)
+![alt text](images/image.png)
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 ---
 
 ## 📚 Open Source License
